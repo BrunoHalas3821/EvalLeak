@@ -1,0 +1,5 @@
+[project]
+name = "evalleak"
+version = "0.1.0"
+description = "Test-contamination detector - finds train/eval overlap via deterministic shingle matching, per-source rollups, CI-ready exit codes. Standard library only."
+requires-python = ">=3.10"
